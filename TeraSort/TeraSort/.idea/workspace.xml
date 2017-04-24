@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TeraSort:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13bed984-5e43-4596-ad58-43156b495b05" name="Default" comment="" />
+    <ignored path="TeraSort.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TeraSort" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputSampler.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="251" column="17" selection-start-line="251" selection-start-column="17" selection-end-line="251" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TeraSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/TeraSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2685#2697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InputFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="90" column="39" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="39" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Sampling.java" />
+        <option value="$PROJECT_DIR$/input/words1.txt" />
+        <option value="$PROJECT_DIR$/input/word2.txt" />
+        <option value="$PROJECT_DIR$/input/words3.txt" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/TeraSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="artifacts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort_jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeraSort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TeraSort">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TeraSort" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TeraSort" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="com.wttttt.hadoop.TeraSort" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="input/ output/ 0.5" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TeraSort" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.TeraSort" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13bed984-5e43-4596-ad58-43156b495b05" name="Default" comment="" />
+      <created>1492999947052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492999947052</updated>
+      <workItem from="1492999948635" duration="40000" />
+      <workItem from="1493000004360" duration="3668000" />
+      <workItem from="1493004771399" duration="3972000" />
+      <workItem from="1493018055192" duration="2726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10406000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904988" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java</url>
+          <line>319</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5896">
+          <caret line="320" column="27" selection-start-line="320" selection-start-column="27" selection-end-line="320" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/TeraSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2685#2697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Mapper#0" expanded="false" />
+            <element signature="e#4074#4099#0" expanded="false" />
+            <element signature="docComment;class#Context#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#setup#0;class#Mapper#0" expanded="false" />
+            <element signature="method#setup#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#map#0;class#Mapper#0" expanded="false" />
+            <element signature="method#map#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#cleanup#0;class#Mapper#0" expanded="false" />
+            <element signature="method#cleanup#0;class#Mapper#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="68" column="45" selection-start-line="68" selection-start-column="45" selection-end-line="68" selection-end-column="45" />
+          <folding>
+            <element signature="docComment;class#FileInputFormat#0" expanded="false" />
+            <element signature="e#2491#2516#0" expanded="false" />
+            <element signature="class#Counter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#accept#0;class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getFormatMinSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#isSplitable#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setMinInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setMinInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setMaxInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setMaxInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getMaxSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getMaxSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#listStatus#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="e#8666#8728#0" expanded="false" />
+            <element signature="method#singleThreadedListStatus#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPathRecursively#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPathRecursively#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#makeSplit#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#makeSplit#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#makeSplit#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#makeSplit#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getSplits#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getSplits#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#computeSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getBlockIndex#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPaths#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPaths#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPath#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPath#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getPathStrings#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputPaths#0;class#FileInputFormat#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="90" column="39" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Sampling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="324" column="45" selection-start-line="324" selection-start-column="34" selection-end-line="324" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/TeraSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2685#2697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/TotalOrderPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="135" column="29" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="29" />
+          <folding>
+            <element signature="e#5710#5711#0" expanded="true" />
+            <element signature="e#5760#5761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="1183" column="31" selection-start-line="1183" selection-start-column="27" selection-end-line="1183" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapred/JobConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="886" column="29" selection-start-line="886" selection-start-column="11" selection-end-line="886" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1082" column="19" selection-start-line="1082" selection-start-column="11" selection-end-line="1082" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/TotalOrderPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3578">
+          <caret line="135" column="29" selection-start-line="135" selection-start-column="13" selection-end-line="135" selection-end-column="29" />
+          <folding>
+            <element signature="e#5710#5711#0" expanded="true" />
+            <element signature="e#5760#5761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/words3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/Sampling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/words1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/word2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/task/JobContextImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/LineRecordReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/TaskInputOutputContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/Mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="128" column="5" selection-start-line="128" selection-start-column="5" selection-end-line="128" selection-end-column="5" />
+          <folding>
+            <element signature="docComment;class#Mapper#0" expanded="false" />
+            <element signature="e#4074#4099#0" expanded="false" />
+            <element signature="docComment;class#Context#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#setup#0;class#Mapper#0" expanded="false" />
+            <element signature="method#setup#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#map#0;class#Mapper#0" expanded="false" />
+            <element signature="method#map#0;class#Mapper#0" expanded="false" />
+            <element signature="docComment;method#cleanup#0;class#Mapper#0" expanded="false" />
+            <element signature="method#cleanup#0;class#Mapper#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/InputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="90" column="39" selection-start-line="90" selection-start-column="34" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.6.2/hadoop-common-2.6.2-sources.jar!/org/apache/hadoop/io/SequenceFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="919" column="20" selection-start-line="919" selection-start-column="6" selection-end-line="919" selection-end-column="20" />
+          <folding>
+            <element signature="docComment;class#SequenceFile#0" expanded="false" />
+            <element signature="e#6497#6522#0" expanded="false" />
+            <element signature="docComment;field#SYNC_INTERVAL#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#CompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#CompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;field#NONE#0;class#CompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;field#RECORD#0;class#CompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;field#BLOCK#0;class#CompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getDefaultCompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getDefaultCompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#setDefaultCompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#setDefaultCompressionType#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#1;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#1;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#2;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#2;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#3;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#3;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#4;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#4;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#5;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#5;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#6;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#6;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#7;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#7;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#8;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#8;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#9;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#9;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#10;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#10;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#createWriter#11;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createWriter#11;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#ValueBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#ValueBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#writeUncompressedBytes#0;class#ValueBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#writeCompressedBytes#0;class#ValueBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getSize#0;class#ValueBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#UncompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#UncompressedBytes#0;class#UncompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#reset#0;class#UncompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeUncompressedBytes#0;class#UncompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeCompressedBytes#0;class#UncompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#CompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#CompressedBytes#0;class#CompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#reset#0;class#CompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeUncompressedBytes#0;class#CompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeCompressedBytes#0;class#CompressedBytes#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Metadata#1;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#write#0;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#readFields#0;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#equals#0;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#equals#1;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#hashCode#0;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#toString#0;class#Metadata#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="initializer##0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#FileOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#FileSystemOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#FileSystemOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#StreamOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#BufferSizeOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#BlockSizeOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#ReplicationOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#AppendIfExistsOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#ValueClassOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#MetadataOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#ProgressableOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#CompressionOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#CompressionOption#1;class#CompressionOption#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#filesystem#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#compression#1;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Writer#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Writer#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Writer#1;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Writer#1;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Writer#2;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Writer#2;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Writer#3;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Writer#3;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#isCompressed#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#isBlockCompressed#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#ownStream#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#writeFileHeader#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeFileHeader#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#init#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getKeyClass#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getKeyClass#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getValueClass#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getValueClass#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getCompressionCodec#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getCompressionCodec#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#sync#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sync#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#syncFs#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#syncFs#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#hsync#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#hflush#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getConf#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getConf#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#close#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#checkAndWriteSync#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#append#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#append#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#append#1;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#append#1;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#appendRaw#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getLength#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getLength#0;class#Writer#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#RecordCompressWriter#0;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#append#0;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#51277#51286#0" expanded="false" />
+            <element signature="method#append#0;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#appendRaw#0;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#appendRaw#0;class#RecordCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#BlockCompressWriter#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#writeBuffer#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeBuffer#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#sync#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sync#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#close#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#append#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#55602#55611#0" expanded="false" />
+            <element signature="method#append#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#appendRaw#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#appendRaw#0;class#BlockCompressWriter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getBufferSize#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#Option#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#file#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#stream#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#start#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#length#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#bufferSize#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#FileOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#InputStreamOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#StartOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#LengthOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#BufferSizeOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#OnlyHeaderOption#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Reader#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Reader#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Reader#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Reader#2;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Reader#2;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#initialize#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#initialize#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#openFile#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#openFile#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#init#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#init#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#68395#68413#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#close#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getKeyClassName#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getKeyClass#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getKeyClass#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getValueClassName#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getValueClass#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getValueClass#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#isCompressed#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#isCompressed#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#isBlockCompressed#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#isBlockCompressed#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getCompressionCodec#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getCompressionCodec#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getCompressionType#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getCompressionType#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getMetadata#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getConf#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getConf#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#readBuffer#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#readBuffer#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#readBlock#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#readBlock#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#75867#75918#0" expanded="false" />
+            <element signature="docComment;method#seekToCurrentValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#seekToCurrentValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#77805#77842#0" expanded="false" />
+            <element signature="docComment;method#getCurrentValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getCurrentValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getCurrentValue#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getCurrentValue#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#deserializeValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#next#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#next#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#next#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#next#1;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#readRecordLength#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#readRecordLength#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#next#2;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#next#2;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#createValueBytes#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#nextRaw#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#nextRaw#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#nextRawKey#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#nextRawKey#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#next#3;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#next#3;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#deserializeKey#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#nextRawValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#nextRawValue#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#handleChecksumException#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#ignoreSync#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#seek#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#seek#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#sync#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sync#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#syncSeen#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#syncSeen#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getPosition#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getPosition#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#toString#0;class#Reader#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Sorter#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Sorter#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Sorter#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Sorter#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#Sorter#2;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#Sorter#2;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#setFactor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#setFactor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getFactor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getFactor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#setMemory#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#setMemory#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getMemory#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getMemory#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#setProgressable#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#sort#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sort#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#sortAndIterate#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sortAndIterate#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#96865#96935#0" expanded="false" />
+            <element signature="docComment;method#sort#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sort#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#run#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#99858#99886#0" expanded="false" />
+            <element signature="method#close#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#grow#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#grow#1;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#grow#2;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#flush#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#sort#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#SeqFileComparator#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#compare#0;class#SeqFileComparator#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#setProgressable#0;class#SortPass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getKey#0;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getValue#0;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#next#0;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getProgress#0;class#RawKeyValueIterator#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#1;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#2;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#2;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#3;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#3;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#108713#108778#0" expanded="false" />
+            <element signature="docComment;method#cloneFileAttributes#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#cloneFileAttributes#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#writeFile#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#writeFile#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#4;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#4;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#mergePass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#mergePass#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#5;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#5;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#112810#112841#0" expanded="false" />
+            <element signature="docComment;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#put#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#MergeQueue#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#MergeQueue#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#lessThan#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#close#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getKey#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getValue#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#next#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#116432#116501#0" expanded="false" />
+            <element signature="method#adjustPriorityQueue#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#updateProgress#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#merge#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#merge#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="e#118424#118496#0" expanded="false" />
+            <element signature="e#119077#119145#0" expanded="false" />
+            <element signature="e#119844#119887#0" expanded="false" />
+            <element signature="e#120404#120474#0" expanded="false" />
+            <element signature="e#120583#120646#0" expanded="false" />
+            <element signature="e#121114#121182#0" expanded="false" />
+            <element signature="e#122359#122423#0" expanded="false" />
+            <element signature="e#122839#122909#0" expanded="false" />
+            <element signature="method#getPassFactor#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getSegmentDescriptors#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#getSegmentDescriptors#0;class#MergeQueue#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#SegmentDescriptor#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#SegmentDescriptor#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#doSync#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#doSync#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#preserveInput#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#compareTo#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#equals#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#nextRawKey#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#nextRawKey#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#nextRawValue#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#nextRawValue#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#getKey#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#close#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#close#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#cleanup#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#cleanup#0;class#SegmentDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#LinkedSegmentsDescriptor#0;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#LinkedSegmentsDescriptor#0;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#cleanup#0;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#cleanup#0;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#equals#0;class#LinkedSegmentsDescriptor#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;class#SegmentContainer#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="class#SegmentContainer#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="docComment;method#SegmentContainer#0;class#SegmentContainer#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#SegmentContainer#0;class#SegmentContainer#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+            <element signature="method#cleanup#0;class#SegmentContainer#0;class#Sorter#0;class#SequenceFile#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/input/FileInputFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding>
+            <element signature="docComment;class#FileInputFormat#0" expanded="false" />
+            <element signature="e#2491#2516#0" expanded="false" />
+            <element signature="class#Counter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#accept#0;class#MultiPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputDirRecursive#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getFormatMinSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#isSplitable#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setMinInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setMinInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getMinSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setMaxInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setMaxInputSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getMaxSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getMaxSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputPathFilter#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#listStatus#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="e#8666#8728#0" expanded="false" />
+            <element signature="method#singleThreadedListStatus#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPathRecursively#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPathRecursively#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#makeSplit#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#makeSplit#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#makeSplit#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#makeSplit#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getSplits#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getSplits#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#computeSplitSize#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getBlockIndex#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#setInputPaths#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#setInputPaths#1;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#addInputPath#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#addInputPath#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getPathStrings#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="docComment;method#getInputPaths#0;class#FileInputFormat#0" expanded="false" />
+            <element signature="method#getInputPaths#0;class#FileInputFormat#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-r-00001">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wttttt/hadoop/TeraSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2685#2697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.6.2/hadoop-mapreduce-client-core-2.6.2-sources.jar!/org/apache/hadoop/mapreduce/lib/partition/InputSampler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="251" column="17" selection-start-line="251" selection-start-column="17" selection-end-line="251" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>TeraSort:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TeraSort</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
