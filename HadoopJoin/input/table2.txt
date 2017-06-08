@@ -1,0 +1,5 @@
+9	Beijing	roastDuck
+1	Hunan	meat
+1	Hunan	spice
+5	Sichuan	panda
+7	Shanghai	disney
